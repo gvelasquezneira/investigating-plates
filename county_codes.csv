@@ -1,0 +1,69 @@
+county,case_count,county_name,Total_Population
+06,91,Broward,1944375
+50,57,Palm Beach,1492191
+36,24,Lee,760822
+64,19,Volusia,553543
+35,17,Lake,383956
+41,15,Manatee,399710
+45,15,Nassau,90352
+52,10,Pinellas,959107
+05,9,Brevard,606612
+43,8,Martin,158431
+58,7,Sarasota,434006
+59,7,Seminole,470856
+17,6,Escambia,321905
+49,6,Osceola,388656
+51,6,Pasco,561891
+38,5,Levy,42915
+08,4,Charlotte,186847
+22,4,Glades,12126
+27,4,Hernando,194515
+11,3,Collier,375752
+14,3,DeSoto,33976
+24,3,Hamilton,14004
+37,2,Leon,292198
+42,2,Marion,375908
+47,2,Okeechobee,39644
+56,2,St. Lucie,329226
+60,2,Sumter,129752
+03,1,Bay,175216
+12,1,Columbia,69698
+13,1,Dade (Miami-Dade),NA
+29,1,Hillsborough,1459762
+30,1,Holmes,19653
+44,1,Monroe,82874
+54,1,Putnam,73321
+61,1,Suwannee,43474
+NA,NA,Alachua,278468
+NA,NA,Baker,28259
+NA,NA,Bradford,28303
+NA,NA,Calhoun,13648
+NA,NA,Citrus,153843
+NA,NA,Clay,218245
+NA,NA,Dixie,16759
+NA,NA,Duval,995567
+NA,NA,Flagler,115378
+NA,NA,Franklin,12451
+NA,NA,Gadsden,43826
+NA,NA,Gilchrist,17864
+NA,NA,Gulf,14192
+NA,NA,Hardee,25327
+NA,NA,Hendry,39619
+NA,NA,Highlands,101235
+NA,NA,Indian River,159788
+NA,NA,Jackson,47319
+NA,NA,Jefferson,14510
+NA,NA,Lafayette,8226
+NA,NA,Liberty,7974
+NA,NA,Madison,17968
+NA,NA,Miami-Dade,2701767
+NA,NA,Okaloosa,211668
+NA,NA,Orange,1429908
+NA,NA,Polk,725046
+NA,NA,St. Johns,273425
+NA,NA,Santa Rosa,188000
+NA,NA,Taylor,21796
+NA,NA,Union,16147
+NA,NA,Wakulla,33764
+NA,NA,Walton,75305
+NA,NA,Washington,25318

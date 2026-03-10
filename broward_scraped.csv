@@ -1,0 +1,33 @@
+case_number,party_type,full_name,vitals,address,attorney_info
+062025CF011487A88810,Defendant,"Davis, Vincent Donell","{'gender': 'Male', 'race': 'Black', 'complexion': 'Dark Brown', 'height': '5\'7""', 'weight': '160', 'eye': 'Brown', 'hair': 'Black', 'dob': '10/16/1987', 'birth_city': 'Fort Lauderdale', 'birth_state': 'FL'}","2753 NW 6Th St, Pompane Beach, FL 33069","Rivera, Jesenia Marie
+Public Defender
+  Bar ID: 1058549
+201 SE 6 St Ste 3872
+  Fort Lauderdale, FL 33301
+Status: Active
+Public Defender
+Public Defender
+  Bar ID: 88888888
+
+Status: Active"
+062025CF011487A88810,State,State of Florida,{},,
+062025CF013006A88810,Defendant,"Kelly, William Lee","{'gender': 'Male', 'race': 'Black', 'language': 'English (American)', 'complexion': 'Dark Brown', 'height': ""6'"", 'weight': '215', 'eye': 'Brown', 'hair': 'Black', 'dob': '10/20/1968', 'birth_city': 'Miami', 'birth_state': 'FL'}","840 E Daytona CIR, Fort Lauderdale, FL 33312","Entenberg, Rebecca Ann
+Public Defender
+  Bar ID: 1048782
+Office of the Public Defender
+  201 SE 6 St, Ste 3872
+  Fort Lauderdale, FL 33301
+Status: Active
+Morgan, Ashlin Hannah
+Public Defender
+  Bar ID: 1028365
+201 SE 6th St
+  Ste 3872
+  Ft Lauderdale, FL 33301
+Status: Removed 12/15/2025
+Public Defender
+Public Defender
+  Bar ID: 88888888
+
+Status: Removed 11/25/2025"
+062025CF013006A88810,State,State of Florida,{},,
